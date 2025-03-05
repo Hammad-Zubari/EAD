@@ -401,6 +401,7 @@ var age = 20
 var color = 'white'
 function z (){
     lo~
+    console.log("free")
 }
 
 var hmm = {
